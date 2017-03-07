@@ -1,0 +1,16 @@
+{
+  "apps": [{
+    "name": "F:myprojectXX-thinkjs-blogF:myprojectXX-thinkjs-blogX-thinks-api-blog",
+    "script": "www/production.js",
+    "cwd": "F:\myproject\X\X-thinkjs-blog\X-thinks-api-blog",
+    "exec_mode": "cluster",
+    "instances": 0,
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+      
+    }
+  }]
+}
