@@ -3,5 +3,8 @@
  * config
  */
 export default {
-  //key: value
+    route_on : true,
+    default_module : 'api',
+    default_controller : 'index',
+    default_action : 'index'
 };
